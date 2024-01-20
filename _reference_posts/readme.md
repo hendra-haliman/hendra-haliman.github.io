@@ -1,0 +1,1 @@
+The original posts are located here as reference only during creating my own posts.

@@ -1,3 +1,9 @@
+# Hendra's Note: 
+This repo is at very early stage of creating and utilizing github.io to create my website, using Jekyll static website generator.
+
+# Status: 
+WIP
+
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
 # Jekyll theme: Adam Blog 2.0

@@ -1,6 +1,6 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: Random Thoughts
+description: 'Random thoughts of Hendra.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hendra-haliman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -20,22 +20,22 @@ logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG f
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/assets/img/branding/Hendra Haliman.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
+author: Hendra Haliman # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: Software Developer, avid learner with diverse interests in coding and reinforcement learning. Years of experience working in both local and multinational corporations.
 
 # Contact links
 email: hendra.haliman@gmail.com # Add your Email address
 phone: # Add your Phone number
 website: https://hendra-haliman.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
+linkedin: hendra-haliman-2ba97a10 # Add your Linkedin handle
+github: hendra-haliman # Add your Github handle
+twitter:  # Add your Twitter handle
+bandcamp:  # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
@@ -43,7 +43,7 @@ mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6
 
 # Tracker
 analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+fbadmin: ar.maybac
 
 # Paginate
 paginate: 6
