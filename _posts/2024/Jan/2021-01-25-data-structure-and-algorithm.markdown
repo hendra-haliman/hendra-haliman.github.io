@@ -24,7 +24,7 @@ I put common DSA (Data Structure & Algorithm) here.
 ### 2- First and last position in a sorted array (Related topic(s): Array, Searching, Binary search)
 
 ### 3- Symmetric tree (Related topic(s): Binary tree, Depth-first search)
-
+Playground can be found here [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/ "Invert Binary Tree")
 ### 4- Kth largest element in an array (Related topic(s): Array, Sorting, Priority queue, Heap)
 
 ### 5- Generate parentheses (Related topic(s): Backtracking, Stack)
