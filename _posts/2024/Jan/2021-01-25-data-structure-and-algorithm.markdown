@@ -5,7 +5,7 @@ show_date: true
 title:  Data Structure and Algorithm
 date:   2024-01-16 13:20:00 +0700
 description: A collection of common DSAs. 
-img: posts/20240116/DSA.jpg 
+img: posts/20240116/dsa.jpg 
 tags: [data structure, coding, algorithm]
 author: Hendra Haliman
 github: 
