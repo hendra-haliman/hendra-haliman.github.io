@@ -8,8 +8,8 @@
 ### Windows XP, Me, 2000, 7, 8.1, 10, 11
 ### Various Linux OSes such as: Red Hat, CentOS, Fedora, Ubuntu
 
-### MySQL, PostgreSQL, Oracle, MS SQL DBs
-### Neo4J DB
+### RDBMS: MySQL, PostgreSQL, Oracle, MS SQL DBs
+### NoSQL: Neo4J DB
 
 ## Education
 ### Msc (in Comp Sci) Curtin University of Technology, Perth, Australia
