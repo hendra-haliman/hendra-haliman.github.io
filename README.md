@@ -1,8 +1,10 @@
 # Hendra Haliman's Portfolio
 
 ## Techstack
+### HTML5, CSS, Javascript
 ### Java, Spring Framework, Springboot, Hibernate
 ### C#, .Net
+### Angular( 1 & 2 ) , React Javascript Frameworks
 
 ### Windows Server 2012 R.2 Windows Server 2016
 ### Windows XP, Me, 2000, 7, 8.1, 10, 11
