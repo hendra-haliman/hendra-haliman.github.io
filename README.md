@@ -1,5 +1,13 @@
 # Hendra Haliman's Portfolio
 
+## Techstack
+### Java, Spring Framework, Springboot
+### C#, .Net
+
+### Windows Server 2012 R.2
+### Various Linux OSes
+
+
 ## Education
 ### Msc (in Comp Sci) Curtin University of Technology, Perth, Australia
 ### BSc (in Comp Sci) Curtin University of Technology, Perth, Australia
