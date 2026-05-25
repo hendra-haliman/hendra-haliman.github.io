@@ -28,6 +28,9 @@
 ### OneIT Pty. Ltd, Perth, Australia
 ### ...
 ### Curtin University of Technology, Perth, Australia
+### Polydaya
+### Lepisi
+### Widyaloka
 
 ## Miscelaneous
 
