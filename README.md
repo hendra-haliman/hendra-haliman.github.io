@@ -1,12 +1,15 @@
 # Hendra Haliman's Portfolio
 
 ## Techstack
-### Java, Spring Framework, Springboot
+### Java, Spring Framework, Springboot, Hibernate
 ### C#, .Net
 
-### Windows Server 2012 R.2
-### Various Linux OSes
+### Windows Server 2012 R.2 Windows Server 2016
+### Windows XP, Me, 2000, 7, 8.1, 10, 11
+### Various Linux OSes such as: Red Hat, CentOS, Fedora, Ubuntu
 
+### MySQL, PostgreSQL, Oracle, MS SQL DBs
+### Neo4J DB
 
 ## Education
 ### Msc (in Comp Sci) Curtin University of Technology, Perth, Australia
